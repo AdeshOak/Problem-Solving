@@ -19,3 +19,6 @@ class Solution(object):
             r -= 1
 
         return True
+
+#Time : O(n)
+#Space : O(1)
